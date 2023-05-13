@@ -1,62 +1,62 @@
 {
-    "P1H_KH1": [
+    "PKH_1": [
         {
             "name": "**P1harmony Keeho**",
             "image": "https://media.discordapp.net/attachments/888325263371403317/1106581807920590878/bread_card_20230512215842.png?width=480&height=662",
             "theme": "Siren",
             "inv": "P1harmony",
             "grade": "1star",
-            "code": "`P1H_KH1`"
+            "code": "`PKH_1`"
         }
     ],
-    "P1H_TH1": [
+    "PTH_1": [
         {
             "name": "**P1harmony Theo**",
             "image": "https://media.discordapp.net/attachments/888325263371403317/1106581808302280851/bread_card_20230512215914.png?width=480&height=662",
             "theme": "Siren",
             "inv": "P1harmony",
             "grade": "1star",
-            "code": "`P1H_TH1`"
+            "code": "`PTH_1`"
         }
     ],
-    "P1H_JU1": [
+    "PJU_1": [
         {
             "name": "**P1harmony Jiung**",
             "image": "https://media.discordapp.net/attachments/888325263371403317/1106581808776228934/bread_card_20230512215554.png?width=480&height=662",
             "theme": "Siren",
             "inv": "P1harmony",
             "grade": "1star",
-            "code": "`P1H_JU1`"
+            "code": "`PJU_1`"
         }
     ],
-    "P1H_IT1": [
+    "PIT_1": [
         {
             "name": "**P1harmony Intak**",
             "image": "https://media.discordapp.net/attachments/888325263371403317/1106581809111781476/bread_card_20230512215646.png?width=480&height=662",
             "theme": "Siren",
             "inv": "P1harmony",
             "grade": "1star",
-            "code": "`P1H_IT1`"
+            "code": "`PIT_1`"
         }
     ],
-    "P1H_SO1": [
+    "PSO_1": [
         {
             "name": "**P1harmony Soul**",
             "image": "https://media.discordapp.net/attachments/888325263371403317/1106581809476673536/bread_card_20230512215716.png?width=480&height=662",
             "theme": "Siren",
             "inv": "P1harmony",
             "grade": "1star",
-            "code": "`P1H_SO1`"
+            "code": "`PSO_1`"
         }
     ],
-    "P1H_JS1": [
+    "PJS_1": [
         {
             "name": "**P1harmony Jongseob**",
             "image": "https://media.discordapp.net/attachments/888325263371403317/1106581809841582261/bread_card_20230512215806.png?width=480&height=662",
             "theme": "Siren",
             "inv": "P1harmony",
             "grade": "1star",
-            "code": "`P1H_JS1`"
+            "code": "`PJS_1`"
         }
     ]
 }
